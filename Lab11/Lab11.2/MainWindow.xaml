@@ -1,0 +1,70 @@
+﻿<Window x:Class="Lab11._2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab11._2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Ellipse HorizontalAlignment="Left" Height="78.201" Margin="376.03,164.701,0,0" Stroke="Black" VerticalAlignment="Top" Width="78.202" RenderTransformOrigin="0.684,0.333">
+            <Ellipse.Fill>
+                <RadialGradientBrush Center="0.75,0.25">
+                    <GradientStop Color="#FFD1C88F" Offset="0"/>
+                    <GradientStop Color="#FFF5C00C" Offset="1"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Path Data="M391.99483,171.0611 C357.69605,120.29891 350.83543,64.049411 367.29905,58.561575 418.12613,41.619329 413.94594,171.06111 413.94594,165.57328" HorizontalAlignment="Left" Height="115.03" Margin="358.756,57.031,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="56.273">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC9E4F1" Offset="0"/>
+                    <GradientStop Color="#FF97C6DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M438.17616,157.34183 C384.6695,168.31719 284.51533,129.903 328.41816,117.55538 379.99356,103.04985 442.29173,142.25047 442.29173,136.76264" HorizontalAlignment="Left" Height="45.977" Margin="256.308,162.332,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="125.71">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC9E4F1" Offset="0"/>
+                    <GradientStop Color="#FF97C6DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M375.9958,172.43348 C384.2277,118.92748 432.91121,73.871531 450.08071,76.396463 496.72627,83.256117 389.71515,190.26848 389.71515,184.78065" HorizontalAlignment="Left" Height="109.689" Margin="437.268,76.295,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="86.86">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC9E4F1" Offset="0"/>
+                    <GradientStop Color="#FF97C6DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M449.61663,79.265079 C437.26888,117.67942 365.92674,169.81369 359.06734,138.25917 349.79181,95.590015 437.26872,71.033267 437.26872,65.545437" HorizontalAlignment="Left" Height="83.429" Margin="302.129,221.823,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="92.237">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC9E4F1" Offset="0"/>
+                    <GradientStop Color="#FF97C6DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M294.58562,77.778954 C353.57978,81.894582 395.03729,129.5947 390.62258,146.37795 383.76322,172.45492 283.61062,102.47367 283.61062,96.98584" HorizontalAlignment="Left" Height="75.398" Margin="445.5,206.732,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="108.334">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC9E4F1" Offset="0"/>
+                    <GradientStop Color="#FF97C6DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M417.18902,242.90244 C470.69512,319.73171 391.62193,317.86019 417.18902,374.11019 442.75612,430.36019 433.15233,412.52452 438.64015,415.26842" HorizontalAlignment="Left" Height="173.99" Margin="411.944,242.902,0,0" Stretch="Fill" Stroke="#FF1F7810" VerticalAlignment="Top" Width="27.696" StrokeThickness="5"/>
+        <Path Data="M509.10976,352.65854" HorizontalAlignment="Left" Height="1" Margin="509.11,352.659,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="1">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC9E4F1" Offset="0"/>
+                    <GradientStop Color="#FF97C6DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M414.44512,355.40244 C414.44512,355.40244 404.34159,323.348 374.15867,321.97605 343.97574,320.60409 339.85902,326.09156 338.48705,324.71959 337.11508,323.34762 342.60278,341.18314 350.8346,348.043 359.06642,354.90287 372.78607,360.39076 393.36566,357.64681 413.94524,354.90287 414.44512,355.40244 414.44512,355.40244 z" HorizontalAlignment="Left" Height="39.614" Margin="337.278,320.754,0,0" Stretch="Fill" Stroke="#FF1F7810" StrokeThickness="3" VerticalAlignment="Top" Width="79.167" Fill="#FF329921"/>
+
+    </Grid>
+</Window>
